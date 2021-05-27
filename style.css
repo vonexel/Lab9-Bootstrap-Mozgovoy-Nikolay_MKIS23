@@ -1,0 +1,100 @@
+.bg-danger {
+  background: #9A1212 !important;
+}
+
+.btn-primary {
+  background: #fff;
+}
+
+.btn-light {
+  background: #F3F3F3;
+}
+
+.btn {
+  border-radius: 20px;
+  border: none;
+  color: #000;
+}
+
+.btn-primary:hover {
+  background: #e9e9e9;
+  color: #000;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active {
+  background: #e9e9e9;
+  color: #000;
+}
+
+h3 {
+  font-family: Jost, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 65px;
+}
+h2 {
+  font-family: Jost, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 100px;
+}
+
+h4 {
+  font-family: Jost, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 52px;
+}
+
+.bg-light {
+  background: #F3F3F3;
+}
+
+.divider {
+  height: 40px;
+}
+
+.item .text {
+  font-family: Jost, sans-serif;
+  font-size: 28px;
+  line-height: 42px;
+  text-align: center;
+  color: #9A1212;
+}
+
+.bg {
+  z-index: 99;
+  left: 370px;
+  top: 110px;
+  pointer-events: none;
+}
+
+.footer {
+  font-family: Jost, sans-serif;
+  font-size: 24px;
+  line-height: 35px;
+}
+
+.block {
+  border-radius: 61px;
+}
+
+.block .text {
+  font-family: Jost, sans-serif;
+  font-size: 32px;
+  line-height: 46px;
+  text-align: right;
+}
+
+.block img {
+  margin-right: -53px;
+}
+
+.bg2 {
+  right: -160px;
+  bottom: -100px;
+}
